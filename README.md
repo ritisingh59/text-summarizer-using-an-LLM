@@ -4,6 +4,8 @@ This project is a simple Python-based AI application that generates text using a
 
 ---
 
+
+
 ## 🚀 About the Project
 
 * Built using Python
