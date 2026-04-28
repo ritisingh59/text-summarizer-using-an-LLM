@@ -2,7 +2,7 @@
 
 This project is a simple Python-based AI application that generates text using a pretrained transformer model (**LaMini-Flan-T5-248M**).
 
-
+....
 
 
 ## 🚀 About the Project
