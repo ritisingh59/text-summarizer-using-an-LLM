@@ -2,7 +2,6 @@
 
 This project is a simple Python-based AI application that generates text using a pretrained transformer model (**LaMini-Flan-T5-248M**).
 
----
 
 
 
@@ -12,7 +11,6 @@ This project is a simple Python-based AI application that generates text using a
 * Uses a pretrained lightweight LLM
 * Takes user input and generates meaningful output
 
----
 
 ## 📂 Important Note
 
@@ -26,7 +24,7 @@ Other files/folders like:
 
 are **not included** due to large size.
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -58,7 +56,7 @@ pip install torch transformers accelerate sentencepiece
 
 Download **LaMini-Flan-T5-248M** model manually and place it in the project folder.
 
----
+
 
 ## ▶️ Run the App
 
